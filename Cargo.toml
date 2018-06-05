@@ -1,0 +1,6 @@
+[package]
+name = "rusty-guessing-game"
+version = "0.1.0"
+authors = ["Dawson Mortenson <dawson.mortenson@gmail.com>"]
+
+[dependencies]
